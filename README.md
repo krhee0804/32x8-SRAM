@@ -50,9 +50,3 @@ The schematic for each peripheral circuit was carefully designed to meet the str
 
 ## Conclusion
 The designed SRAM system successfully meets all required specifications, demonstrating robust functionality for both read and write operations at 250 MHz. Future improvements could include further layout optimization and rule-compliant routing for reduced parasitic effects.
-
-## File Structure
-- **`/schematics`**: Schematic files for all peripheral circuits.
-- **`/layouts`**: Layout designs with DRC/LVS checks.
-- **`/simulations`**: Pre- and post-layout simulation results.
-- **`README.md`**: This file.
